@@ -1,10 +1,7 @@
-# ecommerce
+# ecommerce website
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Core Initiative Frontend Project Based Internship Program x Rakamin
+This final task developing with Vue 3 in Vite and API (fakestoreapi.com).
 
 ## Customize configuration
 
