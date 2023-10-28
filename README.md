@@ -1,6 +1,7 @@
 # ecommerce website
 
 Core Initiative Frontend Project Based Internship Program x Rakamin
+
 This final task developing with Vue 3 in Vite and API (fakestoreapi.com).
 
 ## Customize configuration
