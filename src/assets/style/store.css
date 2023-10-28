@@ -40,9 +40,9 @@
   min-width: 1000px;
   max-height: 450px;
   height: 100vh;
-  background-image: url(../images/sad-face.png);
-  background-size: 700px;
-  background-position: center;
+  background-image: url(../images/skeleton.png);
+  background-size: 500px;
+  background-position: center center;
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
