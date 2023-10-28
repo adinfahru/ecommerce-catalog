@@ -95,7 +95,7 @@
 
 .product-title {
   color: var(--navyBlue);
-  font-size: 28px;
+  font-size: 24px;
 }
 
 .product-info {
@@ -135,7 +135,7 @@ hr {
 }
 
 .product-desc {
-  font-size: 20px;
+  font-size: 17px;
   margin-top: 10px;
 }
 
