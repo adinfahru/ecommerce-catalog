@@ -1,9 +1,16 @@
-<script setup>
-import ProductDisplay from "./components/ProductDisplay.vue";
-</script>
-
 <template>
-  <ProductDisplay/>
+  <ProductDisplay />
 </template>
 
-<style scoped></style>
+<script>
+import ProductDisplay from "./components/ProductDisplay.vue";
+
+export default {
+  name: "App",
+  components: {
+    ProductDisplay,
+  },
+};
+</script>
+
+<style></style>
